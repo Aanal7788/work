@@ -1,0 +1,10 @@
+from datetime import datetime
+
+
+firstname = input("enter your first name: ")
+lastname = input("enter your last name: ")
+age=int(input("enter your age: "))
+gender= input("enter male or female: ")
+birthdate = int(input("enter your birthdate: "))
+vaccine = input("enter vaccine name: ")
+vaccine_doze= int(input("enter doze number: "))
